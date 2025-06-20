@@ -1,4 +1,4 @@
-# 📸 Structure from Motion - Sparse 3D Reconstruction
+# 📸 Structure from Motion (SfM) Sparse 3D Reconstruction
 
 This project implements a **Structure from Motion (SfM)** pipeline to estimate camera poses and reconstruct a 3D scene from a set of 2D images. It covers key components of multiview geometry including fundamental matrix estimation, essential matrix computation, triangulation, PnP, and bundle adjustment.
 
@@ -132,5 +132,4 @@ For a detailed explanation of the theory, implementation, and results, see the [
 
 This project was conducted as part of the **Robotics Engineering Program at Worcester Polytechnic Institute (WPI)**.
 
-```
 
